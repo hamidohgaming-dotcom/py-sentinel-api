@@ -114,7 +114,8 @@ git remote add origin https://github.com/YOUR_USERNAME/py-sentinel-api.git
 # 3. Push to GitHub
 git push -u origin main
 ```
-
+<!-- Co-authored release -->
+docs: update project specifications
 ---
 
 ## 📄 License

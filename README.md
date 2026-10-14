@@ -55,7 +55,7 @@ py-sentinel-api/
 ## 🚀 Quickstart
 
 ### 1. Run with Python CLI
-```bash
+```bash..
 # Display host hardware & system telemetry
 python -m sentinel sysinfo
 

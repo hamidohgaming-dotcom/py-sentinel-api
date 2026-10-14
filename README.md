@@ -99,9 +99,9 @@ curl -X POST http://localhost:8000/api/v1/ping \
 
 ---
 
-## 🚢 Publishing to GitHub
+## 🚢 Publishing to GitHub .
 
-```bash
+```bash .
 # 1. Initialize local repository (already prepared)
 git init
 git add .

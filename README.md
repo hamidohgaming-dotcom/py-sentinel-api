@@ -91,7 +91,7 @@ python -m unittest discover -s tests -v
 | `DELETE` | `/api/v1/monitors/:id` | Remove a monitor |
 
 ### Example: Ad-hoc Check
-```bash
+```bash .
 curl -X POST http://localhost:8000/api/v1/ping \
   -H "Content-Type: application/json" \
   -d '{"url": "https://www.google.com", "expected_status": 200}'
